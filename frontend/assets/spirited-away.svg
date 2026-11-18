@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="480" viewBox="0 0 320 480">
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#75a4a3"/><stop offset=".65" stop-color="#d7c39e"/><stop offset="1" stop-color="#7b6b58"/></linearGradient></defs>
+  <rect width="320" height="480" fill="url(#sky)"/>
+  <circle cx="245" cy="105" r="34" fill="#f4ddaa" opacity=".9"/>
+  <path d="M0 300c54-28 99-20 145 7 48 28 102 18 175-17v190H0z" fill="#5d4d43"/>
+  <path d="M55 480V254h210v226" fill="#24282b" opacity=".9"/>
+  <path d="M85 480V290h150v190" fill="#b75f42"/>
+  <rect x="123" y="330" width="74" height="150" fill="#d9bd73"/>
+  <g fill="#eadcb4" opacity=".85"><circle cx="65" cy="340" r="7"/><circle cx="251" cy="300" r="5"/><circle cx="215" cy="170" r="4"/><circle cx="118" cy="225" r="6"/></g>
+  <text x="160" y="430" fill="#fff4d8" font-family="Georgia,serif" font-size="24" text-anchor="middle" letter-spacing="3">SPIRITED AWAY</text>
+</svg>
